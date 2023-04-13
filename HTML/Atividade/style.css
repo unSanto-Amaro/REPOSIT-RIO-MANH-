@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 40px;
+    border-collapse: collapse;
+}
+
+tr, th, td{
+    border: 1px solid black;
+}
+
+th{
+    background-color: grey;
+}
+
+td, tr{
+    background-color: aquamarine;
+}

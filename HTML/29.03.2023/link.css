@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.especial:hover{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.especial::before{
+    content: '>';
+    font-weight: lighter;
+}
+
