@@ -1,0 +1,21 @@
+.header{
+    border: 1px solid black;
+    height: 100px;
+}
+
+.nav{
+    border: 1px solid black;
+    height: 20px;
+}
+
+.main{
+    border: 1px solid black;
+    height: 600px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.footer{
+    border: 1px solid black;
+    height: 20px;
+}
