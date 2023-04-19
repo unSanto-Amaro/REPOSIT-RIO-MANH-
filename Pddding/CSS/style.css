@@ -1,0 +1,31 @@
+body{
+    background-color: #262737;
+    color: aliceblue;
+}
+
+.box{
+    border: 1px solid #4CAF50;
+    padding: 70px;
+}
+
+article h1{
+    text-align: center;
+}
+
+article p{
+    text-align: justify;
+}
+
+article .boxPaddin{
+    border: 1px solid yellowgreen;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.box2 .boxPaddin{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 25px 50px 75px 100px;
+}
